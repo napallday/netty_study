@@ -1,0 +1,20 @@
+plugins {
+    id 'java'
+}
+
+group 'com.study'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenLocal()
+    maven { url 'http://repo1.maven.org/maven2' }
+    mavenCentral()
+}
+
+dependencies {
+    // https://mvnrepository.com/artifact/io.netty/netty-all
+    compile group: 'io.netty', name: 'netty-all', version: '4.1.43.Final'
+    testCompile 'junit:junit:4.12'
+}
