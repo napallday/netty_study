@@ -2,42 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54f8b4a0-b13f-46b8-a696-d360b3a8abb9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/thriftCompiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/netty/protobufdemo/client/MyClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/netty/protobufdemo/client/MyClient1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/netty/protobufdemo/client/MyClientHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/netty/protobufdemo/client/MyClientHandler1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/netty/protobufdemo/client/MyClientInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/netty/protobufdemo/client/MyClientInitializer1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/netty/protobufdemo/server/MyServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/netty/protobufdemo/server/MyServer1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/netty/protobufdemo/server/MyServerHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/netty/protobufdemo/server/MyServerHandler1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/netty/protobufdemo/server/MyServerInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/netty/protobufdemo/server/MyServerInitializer1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/protobuf/ProtoBufTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/thrift/PersonServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/thrift/ThriftServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/thrift/generated/DataException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/thrift/generated/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/thrift/generated/PersonService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/protobuf/Student1.proto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thrift/data.thrift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/grpc/GrpcClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/grpc/GrpcServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/grpc/StudentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/proto/Student.proto" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileContent/fileContent.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/protobuf/Student.proto" beforeDir="false" afterPath="$PROJECT_DIR$/src/protobuf/Student.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/netty_lecture-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -107,6 +89,12 @@
                 <item name="netty_lecture" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
               </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="netty_lecture" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
             </expand>
             <select />
           </tree_state>
@@ -117,55 +105,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/netty/protobufdemo/client/MyClientHandler1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="837">
-              <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/thrift/data.thrift">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/thrift/generated/DataException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="575" column="33" selection-start-line="575" selection-start-column="33" selection-end-line="575" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gen-java/thrift/generated/PersonService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gen-java/thrift/generated/DataException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/study/thrift/generated/Person.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
@@ -174,35 +113,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/proto/Student.proto">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/study/thrift/PersonServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="422">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/thrift/ThriftServer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="14" column="111" selection-start-line="14" selection-start-column="111" selection-end-line="14" selection-end-column="111" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/thrift/ThriftClient.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="30" column="37" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
+            <state relative-caret-position="480">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -213,8 +137,62 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
-              <caret line="21" column="55" selection-start-line="21" selection-start-column="55" selection-end-line="21" selection-end-column="55" />
+            <state relative-caret-position="73">
+              <caret line="30" column="63" selection-start-line="30" selection-start-column="63" selection-end-line="30" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/grpc/StudentServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="57" column="23" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1435#1436#0" expanded="true" />
+                <element signature="e#1514#1515#0" expanded="true" />
+                <element signature="e#1584#1585#0" expanded="true" />
+                <element signature="e#1650#1651#0" expanded="true" />
+                <element signature="e#2885#2886#0" expanded="true" />
+                <element signature="e#2937#2938#0" expanded="true" />
+                <element signature="e#3014#3015#0" expanded="true" />
+                <element signature="e#3041#3042#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/grpc/GrpcClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-279">
+              <caret line="66" column="87" lean-forward="true" selection-start-line="66" selection-start-column="87" selection-end-line="66" selection-end-column="87" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1843#1844#0" expanded="true" />
+                <element signature="e#1895#1896#0" expanded="true" />
+                <element signature="e#1972#1973#0" expanded="true" />
+                <element signature="e#2024#2025#0" expanded="true" />
+                <element signature="e#2979#2980#0" expanded="true" />
+                <element signature="e#3031#3032#0" expanded="true" />
+                <element signature="e#3124#3125#0" expanded="true" />
+                <element signature="e#3190#3191#0" expanded="true" />
+                <element signature="e#3280#3281#0" expanded="true" />
+                <element signature="e#3332#3333#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/grpc/GrpcServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="30" column="41" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -252,13 +230,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/study/netty/firstexample/TestServer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/study/netty/firstexample/TestHttpServerHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/study/netty/socketexample/MyServerHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/study/netty/socketexample/MyServer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/study/netty/socketexample/MyServerInitializer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/study/netty/socketexample/MyClientInitializer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/study/netty/socketexample/MyClient.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/study/netty/socketexample/MyClientHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/study/netty/chatexample/MyCharServer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/study/netty/chatexample/MyChatServer.java" />
@@ -298,11 +269,18 @@
         <option value="$PROJECT_DIR$/src/main/java/com/study/netty/protobufdemo/client/MyClientHandler1.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/Person.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/study/thrift/generated/Person.java" />
-        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/java/com/study/thrift/ThriftServer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/study/thrift/ThriftClient.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/study/thrift/PersonServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/thrift/data.thrift" />
+        <option value="$PROJECT_DIR$/src/proto/Student.proto" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/proto/MyRequest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/proto/StudentServiceGrpc.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/grpc/GrpcServer.java" />
+        <option value="$PROJECT_DIR$/src/main/proto/Student.proto" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/grpc/GrpcClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/grpc/StudentServiceImpl.java" />
       </list>
     </option>
   </component>
@@ -320,10 +298,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="336" />
-    <option name="y" value="152" />
+    <option name="x" value="826" />
+    <option name="y" value="67" />
     <option name="width" value="1116" />
-    <option name="height" value="1057" />
+    <option name="height" value="1028" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -333,6 +311,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Default Changelist'; set:Default Changelist; class com.intellij.packageDependencies.ChangeListScope">
           <expand>
@@ -399,7 +378,7 @@
             <path>
               <item name="netty_lecture" type="b2602c69:ProjectViewProjectNode" />
               <item name="netty_study" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="gen-py" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="netty_lecture" type="b2602c69:ProjectViewProjectNode" />
@@ -444,7 +423,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="netty" type="462c0819:PsiDirectoryNode" />
+              <item name="grpc" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="netty_lecture" type="b2602c69:ProjectViewProjectNode" />
@@ -454,13 +433,19 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="thrift" type="462c0819:PsiDirectoryNode" />
+              <item name="proto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netty_lecture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netty_study" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="proto" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -468,7 +453,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/study" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/study/proto" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -478,20 +463,24 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.study.netty.chatexample" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="A:\Learning\Netty_study\netty_study\src\main" />
+      <recent name="A:\Learning\Netty_study\netty_study\src\main\java" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="A:\Learning\Netty_study\netty_study\src\main\java\com\study\proto" />
+      <recent name="A:\Learning\Netty_study\netty_study\src\main\java\com\study" />
+      <recent name="A:\Learning\Netty_study\netty_study\src\thrift" />
+      <recent name="A:\Learning\Netty_study\netty_study\src\main\java\com\study\netty\protobufdemo" />
+      <recent name="A:\Learning\Netty_study\netty_study\src\main\java\com\study\netty\protobufdemo\client" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.study.netty.protobufdemo.client" />
       <recent name="com.study.netty.protobufdemo.server" />
       <recent name="com.study.netty.websocketdemo" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="A:\Learning\Netty_study\netty_study\src\main\java\com\study" />
-      <recent name="A:\Learning\Netty_study\netty_study\src\thrift" />
-      <recent name="A:\Learning\Netty_study\netty_study\src\main\java\com\study\netty\protobufdemo" />
-      <recent name="A:\Learning\Netty_study\netty_study\src\main\java\com\study\netty\protobufdemo\client" />
-      <recent name="A:\Learning\Netty_study\netty_study\src\protobuf" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.study.netty.chatexample" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -506,13 +495,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ThriftClient">
-    <configuration name="MyClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.study.netty.protobufdemo.client.MyClient" />
-      <module name="netty_lecture.main" />
+  <component name="RunManager" selected="Application.GrpcClient">
+    <configuration name="GrpcClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.grpc.GrpcClient" />
+      <module name="com.study.netty_lecture.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.study.netty.protobufdemo.client.*" />
+          <option name="PATTERN" value="com.study.grpc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -520,25 +509,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyClient1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.study.netty.protobufdemo.client.MyClient1" />
-      <module name="netty_lecture.main" />
+    <configuration name="GrpcServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.grpc.GrpcServer" />
+      <module name="com.study.netty_lecture.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.study.netty.protobufdemo.client.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyServer1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.study.netty.protobufdemo.server.MyServer1" />
-      <module name="netty_lecture.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.study.netty.protobufdemo.server.*" />
+          <option name="PATTERN" value="com.study.grpc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -571,6 +547,25 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="netty_study [generateProto]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="generateProto" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
     </configuration>
     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
       <module name="netty_study" />
@@ -620,19 +615,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MyClient" />
-      <item itemvalue="Application.MyServer1" />
-      <item itemvalue="Application.MyClient1" />
       <item itemvalue="Application.ThriftServer" />
       <item itemvalue="Application.ThriftClient" />
+      <item itemvalue="Gradle.netty_study [generateProto]" />
+      <item itemvalue="Application.GrpcServer" />
+      <item itemvalue="Application.GrpcClient" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GrpcClient" />
+        <item itemvalue="Application.GrpcServer" />
+        <item itemvalue="Gradle.netty_study [generateProto]" />
         <item itemvalue="Application.ThriftClient" />
         <item itemvalue="Application.ThriftServer" />
-        <item itemvalue="Application.MyClient1" />
-        <item itemvalue="Application.MyServer1" />
-        <item itemvalue="Application.MyClient" />
       </list>
     </recent_temporary>
   </component>
@@ -662,6 +657,7 @@
       <workItem from="1573369436011" duration="1997000" />
       <workItem from="1573375292232" duration="85000" />
       <workItem from="1573375391050" duration="4510000" />
+      <workItem from="1573474507161" duration="17642000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1573264397646</created>
@@ -677,11 +673,18 @@
       <option name="project" value="LOCAL" />
       <updated>1573306516527</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add thrift examples">
+      <created>1573474544823</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1573474544823</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54635000" />
+    <option name="totallyTimeSpent" value="72277000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -694,23 +697,24 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7046263" visible="true" weight="0.18123667" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7046263" visible="true" weight="0.028784648" />
       <window_info id="Structure" order="1" sideWeight="0.29537368" side_tool="true" weight="0.1988273" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32939914" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.39335477" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.35407725" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39914164" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3290461" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49946696" weight="0.23258306" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.24115756" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49946696" weight="0.36373392" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010661" side_tool="true" visible="true" weight="0.35407725" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.32939914" />
       <window_info anchor="bottom" id="Build" order="12" sideWeight="0.49946696" weight="0.24115756" />
       <window_info anchor="bottom" id="Run with VisualVM" order="13" />
@@ -721,7 +725,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Gradle" order="4" weight="0.08528785" />
+      <window_info anchor="right" id="Gradle" order="4" weight="0.26066098" />
       <window_info anchor="right" id="Maven" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Database" order="7" />
@@ -767,72 +771,11 @@
     </ignored-roots>
     <MESSAGE value="First commit" />
     <MESSAGE value="Add some examples" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add some examples" />
+    <MESSAGE value="Add thrift examples" />
+    <MESSAGE value="Add gRPC examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add gRPC examples" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/webapp/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="46" column="7" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#textarea#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#textarea#1;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/netty/websocketdemo/TextWebSocketFrameHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Test.java" />
-    <entry file="jar://A:/LocalRepository/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java/3.10.0/3ee94b1a2c1a74d9a27196e39c4bcf8dd0101e70/protobuf-java-3.10.0-sources.jar!/com/google/protobuf/AbstractMessageLite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="66" column="16" selection-start-line="66" selection-start-column="16" selection-end-line="66" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/netty/websocketdemo/WebSocketChannelInitializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="23" column="56" selection-start-line="23" selection-start-column="56" selection-end-line="23" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/netty/socketexample/MyServerHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="9" column="83" selection-start-line="9" selection-start-column="83" selection-end-line="9" selection-end-column="83" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/netty/heartbeat/server/MyServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="26" column="5" selection-start-line="12" selection-start-column="4" selection-end-line="26" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/netty/protobufdemo/MyDataInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://A:/LocalRepository/caches/modules-2/files-2.1/io.netty/netty-all/4.1.43.Final/acaa896a0890ca6c902fa9fe64a282dead26f183/netty-all-4.1.43.Final-sources.jar!/io/netty/handler/codec/protobuf/ProtobufVarint32FrameDecoder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="567">
@@ -1060,36 +1003,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/netty/protobufdemo/client/MyClientHandler1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="837">
-          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gen-java/thrift/generated/DataException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/thrift/generated/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="21" column="55" selection-start-line="21" selection-start-column="55" selection-end-line="21" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/study/thrift/generated/PersonService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
@@ -1097,23 +1010,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/thrift/ThriftServer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/netty/protobufdemo/client/MyClientHandler1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="14" column="111" selection-start-line="14" selection-start-column="111" selection-end-line="14" selection-end-column="111" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/thrift/ThriftClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="30" column="37" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="837">
+          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -1121,6 +1021,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
           <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/thrift/generated/DataException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14526">
+          <caret line="575" column="33" selection-start-line="575" selection-start-column="33" selection-end-line="575" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -1133,19 +1040,154 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/thrift/generated/DataException.java">
+    <entry file="file://$PROJECT_DIR$/gen-java/thrift/generated/DataException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="575" column="33" selection-start-line="575" selection-start-column="33" selection-end-line="575" selection-end-column="33" />
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/proto/MyRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/thrift/ThriftClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="30" column="37" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/thrift/generated/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/thrift/ThriftServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="14" column="111" selection-start-line="14" selection-start-column="111" selection-end-line="14" selection-end-column="111" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/java-se-8u40-ri/src.zip!/java/time/LocalDateTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="134" column="19" selection-start-line="134" selection-start-column="19" selection-end-line="134" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/proto/StudentServiceGrpc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="286" column="70" selection-start-line="286" selection-start-column="70" selection-end-line="286" selection-end-column="70" />
+          <folding>
+            <element signature="e#6101#6170#0" expanded="true" />
+            <element signature="e#7871#7934#0" expanded="true" />
+            <element signature="e#8770#8771#0" expanded="true" />
+            <element signature="e#8818#8819#0" expanded="true" />
+            <element signature="e#12054#12055#0" expanded="true" />
+            <element signature="e#12082#12083#0" expanded="true" />
+            <element signature="e#13930#13931#0" expanded="true" />
+            <element signature="e#13958#13959#0" expanded="true" />
+            <element signature="e#15031#15032#0" expanded="true" />
+            <element signature="e#15059#15060#0" expanded="true" />
+            <element signature="e#16552#16592#0" expanded="true" />
+            <element signature="e#17282#17322#0" expanded="true" />
+            <element signature="e#19020#19021#0" expanded="true" />
+            <element signature="e#19062#19063#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/grpc/GrpcServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="30" column="41" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/grpc/GrpcClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-279">
+          <caret line="66" column="87" lean-forward="true" selection-start-line="66" selection-start-column="87" selection-end-line="66" selection-end-column="87" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1843#1844#0" expanded="true" />
+            <element signature="e#1895#1896#0" expanded="true" />
+            <element signature="e#1972#1973#0" expanded="true" />
+            <element signature="e#2024#2025#0" expanded="true" />
+            <element signature="e#2979#2980#0" expanded="true" />
+            <element signature="e#3031#3032#0" expanded="true" />
+            <element signature="e#3124#3125#0" expanded="true" />
+            <element signature="e#3190#3191#0" expanded="true" />
+            <element signature="e#3280#3281#0" expanded="true" />
+            <element signature="e#3332#3333#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/study/thrift/PersonServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="480">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="30" column="63" selection-start-line="30" selection-start-column="63" selection-end-line="30" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/proto/Student.proto">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://A:/LocalRepository/caches/modules-2/files-2.1/io.grpc/grpc-stub/1.25.0/a603a774db885f54e27f3734a26cb5206dda64c2/grpc-stub-1.25.0-sources.jar!/io/grpc/stub/StreamObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/grpc/StudentServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="57" column="23" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1435#1436#0" expanded="true" />
+            <element signature="e#1514#1515#0" expanded="true" />
+            <element signature="e#1584#1585#0" expanded="true" />
+            <element signature="e#1650#1651#0" expanded="true" />
+            <element signature="e#2885#2886#0" expanded="true" />
+            <element signature="e#2937#2938#0" expanded="true" />
+            <element signature="e#3014#3015#0" expanded="true" />
+            <element signature="e#3041#3042#0" expanded="true" />
           </folding>
         </state>
       </provider>
