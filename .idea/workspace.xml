@@ -2,17 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54f8b4a0-b13f-46b8-a696-d360b3a8abb9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/NioTest2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/nio/NioTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/nio/NioTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/nio/NioTest3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/nio/NioTest4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/nio/NioTest5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/nio/NioTest6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/nio/NioTest7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/nio/NioTest8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NioTest13_in.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NioTest9.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/nio/NioClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/nio/NioServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/nio/NioTest10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/nio/NioTest11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/nio/NioTest12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/nio/NioTest13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/zerocopy/NewIOClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/zerocopy/NewIOServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/zerocopy/OldIOClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/zerocopy/OldIOServer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.bin" afterDir="false" />
@@ -21,6 +22,7 @@
       <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/nio/NioTest9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/study/nio/NioTest9.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -106,10 +108,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/nio/NioTest4.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/zerocopy/OldIOServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" column="25" selection-end-line="34" />
+            <state relative-caret-position="189">
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -118,46 +120,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/nio/NioTest3.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/zerocopy/OldIOClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/nio/NioTest5.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/nio/NioTest6.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="8" column="34" selection-end-line="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/nio/NioTest7.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/nio/NioTest8.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" column="55" lean-forward="true" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
+            <state relative-caret-position="621">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -166,39 +132,36 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/java-se-8u40-ri/src.zip!/java/nio/ByteBuffer.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/zerocopy/NewIOServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="310" column="29" lean-forward="true" selection-start-line="310" selection-start-column="29" selection-end-line="310" selection-end-column="29" />
+            <state relative-caret-position="153">
+              <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
               <folding>
-                <element signature="e#9208#9209#0" expanded="true" />
-                <element signature="e#9261#9262#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/java-se-8u40-ri/src.zip!/java/nio/DirectByteBuffer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="116" column="4" selection-start-line="116" selection-start-column="4" selection-end-line="116" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/nio/NioTest9.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/zerocopy/NewIOClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+            <state relative-caret-position="513">
+              <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/output2.txt">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="jar://C:/Program Files/Java/java-se-8u40-ri/src.zip!/java/io/DataInputStream.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3294">
+              <caret line="147" column="21" selection-start-line="147" selection-start-column="21" selection-end-line="147" selection-end-column="21" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -234,23 +197,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/study/netty/heartbeat/server/MyServerInitializer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/study/netty/websocketdemo/MyServerInitializer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/study/netty/websocketdemo/MyServer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/study/netty/websocketdemo/TextWebSocketFrameHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/study/netty/websocketdemo/WebSocketChannelInitializer.java" />
-        <option value="$PROJECT_DIR$/src/webapp/test.html" />
-        <option value="$PROJECT_DIR$/src/main/java/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/study/protobuf/ProtoBufTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/study/netty/protobufdemo/MyServer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/study/netty/protobufdemo/MyServerInitializer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/study/netty/protobufdemo/MyServerHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/study/netty/protobufdemo/client/MyCllientInitializer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/study/netty/protobufdemo/client/MyClient.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/study/netty/protobufdemo/client/MyClientHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/study/netty/protobufdemo/server/MyServerHandler.java" />
-        <option value="$PROJECT_DIR$/src/protobuf/Student.proto" />
-        <option value="$PROJECT_DIR$/src/protobuf/Student1.proto" />
         <option value="$PROJECT_DIR$/src/main/java/com/study/netty/protobufdemo/client/server/MyServer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/study/netty/protobufdemo/server/MyServerInitializer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/study/netty/protobufdemo/server/MyServer1.java" />
@@ -285,6 +231,23 @@
         <option value="$PROJECT_DIR$/src/main/java/com/study/nio/NioTest3.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/study/nio/NioTest7.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/study/nio/NioTest8.java" />
+        <option value="$PROJECT_DIR$/NioTest9.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/nio/NioTest9.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/nio/NioTest10.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/nio/NioTest11.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/nio/NioTest12.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/nio/NioServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/nio/NioClient.java" />
+        <option value="$PROJECT_DIR$/NioTest13_in.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/nio/NioTest13.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/zerocopy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/zerocopy/oldserver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/zerocopy/OldClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/zerocopy/OldServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/zerocopy/NewServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/zerocopy/NewIOServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/zerocopy/OldIOClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/zerocopy/NewIOClient.java" />
       </list>
     </option>
   </component>
@@ -302,8 +265,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="826" />
-    <option name="y" value="67" />
+    <option name="x" value="902" />
+    <option name="y" value="83" />
     <option name="width" value="1116" />
     <option name="height" value="1028" />
   </component>
@@ -315,7 +278,67 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="netty_lecture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netty_study" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="netty_lecture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netty_study" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netty_lecture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netty_study" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netty_lecture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netty_study" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="netty_lecture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netty_study" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netty_lecture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netty_study" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netty_lecture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netty_study" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netty_lecture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netty_study" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="zerocopy" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Default Changelist'; set:Default Changelist; class com.intellij.packageDependencies.ChangeListScope">
           <expand>
@@ -372,84 +395,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="netty_lecture" type="b2602c69:ProjectViewProjectNode" />
-              <item name="netty_study" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="netty_lecture" type="b2602c69:ProjectViewProjectNode" />
-              <item name="netty_study" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="netty_lecture" type="b2602c69:ProjectViewProjectNode" />
-              <item name="netty_study" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="netty_lecture" type="b2602c69:ProjectViewProjectNode" />
-              <item name="netty_study" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="netty_lecture" type="b2602c69:ProjectViewProjectNode" />
-              <item name="netty_study" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="netty_lecture" type="b2602c69:ProjectViewProjectNode" />
-              <item name="netty_study" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="netty_lecture" type="b2602c69:ProjectViewProjectNode" />
-              <item name="netty_study" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="netty_lecture" type="b2602c69:ProjectViewProjectNode" />
-              <item name="netty_study" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="grpc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="netty_lecture" type="b2602c69:ProjectViewProjectNode" />
-              <item name="netty_study" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="nio" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="netty_lecture" type="b2602c69:ProjectViewProjectNode" />
-              <item name="netty_study" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="proto" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -502,9 +448,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NioTest8">
-    <configuration name="NioTest4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.study.nio.NioTest4" />
+  <component name="RunManager" selected="Application.NioTest13">
+    <configuration name="NioClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.nio.NioClient" />
       <module name="com.study.netty_lecture.main" />
       <extension name="coverage">
         <pattern>
@@ -516,8 +462,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NioTest5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.study.nio.NioTest5" />
+    <configuration name="NioServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.nio.NioServer" />
       <module name="com.study.netty_lecture.main" />
       <extension name="coverage">
         <pattern>
@@ -529,8 +475,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NioTest6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.study.nio.NioTest6" />
+    <configuration name="NioTest11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.nio.NioTest11" />
       <module name="com.study.netty_lecture.main" />
       <extension name="coverage">
         <pattern>
@@ -542,8 +488,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NioTest7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.study.nio.NioTest7" />
+    <configuration name="NioTest12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.nio.NioTest12" />
       <module name="com.study.netty_lecture.main" />
       <extension name="coverage">
         <pattern>
@@ -555,8 +501,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NioTest8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.study.nio.NioTest8" />
+    <configuration name="NioTest13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.nio.NioTest13" />
       <module name="com.study.netty_lecture.main" />
       <extension name="coverage">
         <pattern>
@@ -616,19 +562,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.NioTest4" />
-      <item itemvalue="Application.NioTest5" />
-      <item itemvalue="Application.NioTest6" />
-      <item itemvalue="Application.NioTest7" />
-      <item itemvalue="Application.NioTest8" />
+      <item itemvalue="Application.NioTest11" />
+      <item itemvalue="Application.NioTest12" />
+      <item itemvalue="Application.NioServer" />
+      <item itemvalue="Application.NioClient" />
+      <item itemvalue="Application.NioTest13" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NioTest8" />
-        <item itemvalue="Application.NioTest7" />
-        <item itemvalue="Application.NioTest6" />
-        <item itemvalue="Application.NioTest5" />
-        <item itemvalue="Application.NioTest4" />
+        <item itemvalue="Application.NioTest13" />
+        <item itemvalue="Application.NioClient" />
+        <item itemvalue="Application.NioServer" />
+        <item itemvalue="Application.NioTest12" />
+        <item itemvalue="Application.NioTest11" />
       </list>
     </recent_temporary>
   </component>
@@ -658,7 +604,9 @@
       <workItem from="1573369436011" duration="1997000" />
       <workItem from="1573375292232" duration="85000" />
       <workItem from="1573375391050" duration="4510000" />
-      <workItem from="1573474507161" duration="30960000" />
+      <workItem from="1573474507161" duration="52967000" />
+      <workItem from="1574007781497" duration="5750000" />
+      <workItem from="1574089949600" duration="5018000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1573264397646</created>
@@ -688,11 +636,18 @@
       <option name="project" value="LOCAL" />
       <updated>1573570934718</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add Nio examples">
+      <created>1573653607049</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1573653607049</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85595000" />
+    <option name="totallyTimeSpent" value="118370000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -707,22 +662,22 @@
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7046263" visible="true" weight="0.15778251" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7046263" visible="true" weight="0.19349681" />
       <window_info id="Structure" order="1" sideWeight="0.29537368" side_tool="true" weight="0.1988273" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32939914" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840087" visible="true" weight="0.32618025" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49733475" weight="0.2553648" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39914164" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3290461" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32832617" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49946696" weight="0.36373392" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50159913" side_tool="true" weight="0.5354077" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49810606" weight="0.36158797" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5026652" side_tool="true" weight="0.37339056" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.32939914" />
       <window_info anchor="bottom" id="Build" order="12" sideWeight="0.49946696" weight="0.24115756" />
       <window_info anchor="bottom" id="Run with VisualVM" order="13" />
@@ -739,32 +694,33 @@
       <window_info anchor="right" id="Database" order="7" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.015991472" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7046263" visible="true" weight="0.1444563" />
+      <window_info id="Structure" order="1" sideWeight="0.29537368" side_tool="true" weight="0.1988273" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37191853" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32939914" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49733475" visible="true" weight="0.2553648" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39914164" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32832617" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.14576635" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="Build" order="12" weight="0.33766234" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49810606" weight="0.36158797" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5026652" side_tool="true" weight="0.37339056" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32939914" />
+      <window_info anchor="bottom" id="Build" order="12" sideWeight="0.49946696" weight="0.24115756" />
       <window_info anchor="bottom" id="Run with VisualVM" order="13" />
       <window_info anchor="bottom" id="Debug with VisualVM" order="14" />
       <window_info anchor="bottom" id="Spring" order="15" />
+      <window_info anchor="bottom" id="Messages" order="16" weight="0.32939914" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Gradle" order="4" visible="true" weight="0.015991472" />
+      <window_info anchor="right" id="Gradle" order="4" weight="0.26066098" />
       <window_info anchor="right" id="Maven" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Database" order="7" />
@@ -781,209 +737,10 @@
     <MESSAGE value="Add some examples" />
     <MESSAGE value="Add thrift examples" />
     <MESSAGE value="Add gRPC examples" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add gRPC examples" />
+    <MESSAGE value="Add Nio examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Nio examples" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/netty/firstexample/TestHttpServerHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/netty/chatexample/MyChatServerHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-306">
-          <caret line="31" column="46" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/protobuf/Student1.proto">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-297">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/netty/protobufdemo/server/MyServer1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="52" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/netty/protobufdemo/server/MyServerInitializer1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/netty/protobufdemo/MyDataInfo1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5724">
-          <caret line="219" column="6" selection-start-line="219" selection-start-column="6" selection-end-line="219" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/netty/protobufdemo/server/MyServerHandler1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="104" selection-start-line="9" selection-start-column="104" selection-end-line="9" selection-end-column="104" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/thrift/DataException.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/netty/protobufdemo/client/MyClient1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/netty/protobufdemo/client/MyClientInitializer1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="17" column="53" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/thrift/generated/PersonService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/netty/protobufdemo/client/MyClientHandler1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="837">
-          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/thrift/data.thrift">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/thrift/generated/DataException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14526">
-          <caret line="575" column="33" selection-start-line="575" selection-start-column="33" selection-end-line="575" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gen-java/thrift/generated/PersonService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gen-java/thrift/generated/DataException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/proto/MyRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/thrift/ThriftClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="30" column="37" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/thrift/generated/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/thrift/ThriftServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="14" column="111" selection-start-line="14" selection-start-column="111" selection-end-line="14" selection-end-column="111" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/java-se-8u40-ri/src.zip!/java/time/LocalDateTime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="134" column="19" selection-start-line="134" selection-start-column="19" selection-end-line="134" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/proto/StudentServiceGrpc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="286" column="70" selection-start-line="286" selection-start-column="70" selection-end-line="286" selection-end-column="70" />
-          <folding>
-            <element signature="e#6101#6170#0" expanded="true" />
-            <element signature="e#7871#7934#0" expanded="true" />
-            <element signature="e#8770#8771#0" expanded="true" />
-            <element signature="e#8818#8819#0" expanded="true" />
-            <element signature="e#12054#12055#0" expanded="true" />
-            <element signature="e#12082#12083#0" expanded="true" />
-            <element signature="e#13930#13931#0" expanded="true" />
-            <element signature="e#13958#13959#0" expanded="true" />
-            <element signature="e#15031#15032#0" expanded="true" />
-            <element signature="e#15059#15060#0" expanded="true" />
-            <element signature="e#16552#16592#0" expanded="true" />
-            <element signature="e#17282#17322#0" expanded="true" />
-            <element signature="e#19020#19021#0" expanded="true" />
-            <element signature="e#19062#19063#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/thrift/PersonServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://A:/LocalRepository/caches/modules-2/files-2.1/io.grpc/grpc-stub/1.25.0/a603a774db885f54e27f3734a26cb5206dda64c2/grpc-stub-1.25.0-sources.jar!/io/grpc/stub/StreamObserver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/study/grpc/StudentServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -1039,13 +796,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/nio.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/nio.java" />
     <entry file="jar://C:/Program Files/Java/java-se-8u40-ri/src.zip!/java/nio/Buffer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -1104,13 +855,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/java-se-8u40-ri/src.zip!/java/nio/channels/FileChannel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="345" column="17" selection-start-line="345" selection-start-column="17" selection-end-line="345" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/java-se-8u40-ri/src.zip!/java/nio/channels/ReadableByteChannel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="343">
@@ -1146,32 +890,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/nio/NioTest4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="25" selection-end-line="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/input2.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/output.txt">
-      <provider editor-type-id="LargeFileEditor">
-        <state relative-caret-position="-1458" />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/output.txt" />
     <entry file="file://$PROJECT_DIR$/output2.txt">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NioTest10.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/java-se-8u40-ri/src.zip!/java/nio/channels/SelectionKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="125" column="38" selection-start-line="125" selection-start-column="38" selection-end-line="125" selection-end-column="38" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/study/nio/NioTest8.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="15" column="55" lean-forward="true" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
+          <caret line="15" column="55" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1180,8 +919,8 @@
     </entry>
     <entry file="jar://C:/Program Files/Java/java-se-8u40-ri/src.zip!/java/nio/ByteBuffer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="310" column="29" lean-forward="true" selection-start-line="310" selection-start-column="29" selection-end-line="310" selection-end-column="29" />
+        <state relative-caret-position="27">
+          <caret line="261" column="22" selection-start-line="261" selection-start-column="22" selection-end-line="261" selection-end-column="22" />
           <folding>
             <element signature="e#9208#9209#0" expanded="true" />
             <element signature="e#9261#9262#0" expanded="true" />
@@ -1198,8 +937,193 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/study/nio/NioTest9.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/nio/NioTest10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/nio/NioTest11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="819">
+          <caret line="44" column="47" selection-start-line="44" selection-start-column="47" selection-end-line="44" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/java-se-8u40-ri/src.zip!/java/nio/channels/Selector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="34" column="16" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NioTest9.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/java-se-8u40-ri/src.zip!/java/util/concurrent/ExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="626">
+          <caret line="136" column="17" selection-start-line="136" selection-start-column="17" selection-end-line="136" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/java-se-8u40-ri/src.zip!/java/io/InputStreamReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1112">
+          <caret line="70" column="11" selection-start-line="70" selection-start-column="11" selection-end-line="70" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/java-se-8u40-ri/src.zip!/java/io/BufferedReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1107">
+          <caret line="69" column="13" selection-start-line="69" selection-start-column="13" selection-end-line="69" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/java-se-8u40-ri/src.zip!/java/util/concurrent/Executors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="183" column="6" selection-start-line="183" selection-start-column="6" selection-end-line="183" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/nio/NioServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/nio/NioClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/nio/NioTest4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="10" column="25" selection-end-line="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/nio/NioTest13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="14" column="46" lean-forward="true" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NioTest13_out.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NioTest13_in.txt">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/nio/NioTest12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/zerocopy.java" />
+    <entry file="jar://C:/Program Files/Java/java-se-8u40-ri/src.zip!/java/io/DataInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3294">
+          <caret line="147" column="21" selection-start-line="147" selection-start-column="21" selection-end-line="147" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/java-se-8u40-ri/src.zip!/java/net/Socket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="900" column="23" selection-start-line="900" selection-start-column="23" selection-end-line="900" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/java-se-8u40-ri/src.zip!/java/nio/channels/SocketChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="388" column="28" selection-start-line="388" selection-start-column="28" selection-end-line="388" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/java-se-8u40-ri/src.zip!/java/nio/channels/FileChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="618" column="25" selection-start-line="618" selection-start-column="25" selection-end-line="618" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/zerocopy/OldIOServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/zerocopy/OldIOClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/zerocopy/NewIOServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/zerocopy/NewIOClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
